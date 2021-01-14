@@ -82,3 +82,44 @@ main p{
     margin-bottom: 20px;
 }
 
+.imgfooter{
+position: relative;
+    float: left;
+    margin-right: 25px;
+}
+
+.h2footer{
+
+    margin: 10px;
+    font-size: x-large;
+    font-weight: 700;
+    color: rgb(65, 65, 65);
+
+}
+
+.pfooter{
+    color: rgb(65, 65, 65);
+
+}
+
+.share{
+width: 200px;
+height: 50px;
+background-color: rgb(255, 41, 41);
+float: right;
+text-align: center;
+position: relative;
+
+
+}
+
+.pfooter2{
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    color: blanchedalmond;
+}
+.img3{
+    width: 100%;
+}
+
